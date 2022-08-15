@@ -44,7 +44,7 @@
 
 - [typescript](https://github.com/microsoft/TypeScript)
 
-- auto-generate graphql types with [@graphql-codegen/typescript](https://www.graphql-code-generator.com/plugins/typescript/typescript)
+- auto-generate typescript graphql types with [@graphql-codegen/typescript](https://www.graphql-code-generator.com/plugins/typescript/typescript)
 
 - unit and integration tests setup with [ts-jest](https://www.npmjs.com/package/ts-jest) and [supertest](https://github.com/visionmedia/supertest)
 
