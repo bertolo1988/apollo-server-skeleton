@@ -22,6 +22,8 @@
 
 - Fork project
 
+- Remove .vscode/ if vscode is not your editor
+
 - Replace all ocurrences of "apollo-server-skeleton" with your project name.
 
 - Verify everything works: `npm install && npm run test && npm run dev`
@@ -48,4 +50,4 @@
 
 - unit and integration tests setup with [ts-jest](https://www.npmjs.com/package/ts-jest) and [supertest](https://github.com/visionmedia/supertest)
 
-
+- vscode debugging config

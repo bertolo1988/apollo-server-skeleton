@@ -106,6 +106,5 @@ dist
 # DS_Store
 .DS_Store
 
-.vscode
-
+# JS files after transpilation
 build/
