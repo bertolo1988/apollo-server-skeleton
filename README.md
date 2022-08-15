@@ -26,7 +26,9 @@
 
 - Replace all ocurrences of "apollo-server-skeleton" with your project name.
 
-- Verify everything works: `npm install && npm run test && npm run dev`
+- Verify everything works: `npm install && npm run dev`
+
+- Verify tests pass with `npm run test`
 
 - Continue development
 
