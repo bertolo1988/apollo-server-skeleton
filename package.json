@@ -8,7 +8,7 @@
     "dev": "ts-node-dev --respawn ./src/run.ts",
     "format-graphql-schema": "format-graphql --write true ./src/schema.graphql",
     "test": "NODE_ENV=test jest --testTimeout=10000",
-    "clean": "rm -rf node_modules",
+    "clean": "rm -rf node_modules/ && rm -rf build/",
     "prettier:format": "npx prettier --write .",
     "prettier:check": "npx prettier --check .",
     "generate-types": "graphql-codegen --config codegen.yml"
