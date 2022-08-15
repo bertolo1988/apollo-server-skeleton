@@ -26,7 +26,7 @@
 
 - Replace all ocurrences of "apollo-server-skeleton" with your project name.
 
-- Verify everything works: `npm install && npm run dev`
+- Verify everything works: `npm install && npm run dev` and open [localhost:3000](http://localhost:3000/) in your browser
 
 - Verify tests pass with `npm run test`
 
