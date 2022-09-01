@@ -18,7 +18,7 @@
 
 ## How to use
 
-- Install node.js version 16.16.0
+- Install node.js version v16.16.0
 
 - Fork project
 
